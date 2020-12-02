@@ -3,9 +3,9 @@ This is a mod of an existing mod which adds support for bots.
 
 It does compile under linux and is tested with Q2Pro Server.
 
-## Todo List
+# Todo List
 This need to get done in no particular order .. they just need to be done
----------------------------------------------------------------------------
+
 * Clean up Bugs, Optimize code
 * New configuration file format
 * Night Vision goggles
@@ -27,9 +27,8 @@ This need to get done in no particular order .. they just need to be done
 * Z-Bot detection
 * Add spotlight to the turrets
 
-## Fixed Bugs
+# Fixed Bugs
 These are bugs that have been fixed in Chaotic Dreams
------------------------------------------------------------------------------
 
 * Player can switch to beeing a camera, suicide, which causes them become
   invisible and then they start running around killing people
