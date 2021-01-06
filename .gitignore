@@ -1,0 +1,2 @@
+builds/debug/*.o
+builds/release/*.o

@@ -197,7 +197,7 @@ $(BUILDDIR)/q_shared.o : q_shared.c
 
 $(BUILDDIR)/stdlog.o : stdlog.c
 	$(DO_SHLIB_CC)
-
+	
 #####
 
 clean: clean-debug clean-release
